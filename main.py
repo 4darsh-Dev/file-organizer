@@ -26,7 +26,7 @@ images = [
 ]
 
 documents = [
-    ".pdf", '.dox', '.docx', '.html', '.htm', '.xlsx', '.xls', '.txt',
+    ".pdf", '.dox', '.docx', '.html', '.xlsx', '.xls', '.txt',
 
 ]
 
