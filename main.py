@@ -31,7 +31,7 @@ documents = [
 ]
 
 others = [
-    '.css', '.js','.py', '.c', '.cpp',
+    '.css', '.js', '.c', '.cpp',
 ]
 
 
